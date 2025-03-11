@@ -20,8 +20,7 @@ This project is an **interactive web-based virtual lab** designed to simulate a 
 ```
 📁 VirtualLab-Titration
 ├── index.html    # Main HTML file containing the titration simulator
-├── styles.css    # Styling for the interface
-├── script.js     # JavaScript logic for calculations and UI interactions
+├── images    # JavaScript logic for calculations and UI interactions
 ├── README.md     # Project documentation
 ```
 
@@ -36,20 +35,4 @@ This project is an **interactive web-based virtual lab** designed to simulate a 
 - Enhances **chemistry learning** with interactive elements.
 - Enables further **data analysis** using MATLAB.
 
-## 🌐 Live Demo
-[GitHub Pages Link](#) *(Add your hosted link here)*
-
-## 📝 Future Improvements
-- Add more titration types (Strong Acid-Strong Base, Weak Base-Strong Acid, etc.)
-- Improve UI with animations and better visualization.
-- Implement a **backend for saving experiment data**.
-
-## 🤝 Contributing
-Feel free to fork the repository and contribute! Pull requests are welcome.
-
-## 📧 Contact
-For any queries or suggestions, reach out to **Arushi Vaidya** at **arushivaidya123@gmail.com**.
-
----
-🎯 *Designed & Developed by Arushi Vaidya*
 
